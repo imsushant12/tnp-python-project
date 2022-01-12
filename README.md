@@ -12,7 +12,7 @@ Here bloggers can Save, Edit and Delete their posts. It is built to save the tim
 
 ### Contact-
 - GitHub : [@imsushant12](https://github.com/imsushant12)
-- LinkedIn : [@sushant-gaurav2](https://www.linkedin.com/in/sushant-gaurav)
+- LinkedIn : [@sushant-gaurav](https://www.linkedin.com/in/sushant-gaurav)
 
 ### Some screenshots of the same.
 
